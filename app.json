@@ -1,0 +1,26 @@
+{
+  "id": "b3b01a28-16dc-4f54-89d6-ba9203eaa1d5",
+  "name": "TubeStream Integration",
+  "publisher": "SQIT",
+  "version": "1.0.0.0",
+  "brief": "Integration between TS and BC",
+  "description": "Integration between TS and BC",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.2.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70150
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://TSProject.com/help/",
+  "showMyCode": false,
+  "runtime": "6.0"
+}
